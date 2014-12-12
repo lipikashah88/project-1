@@ -1,0 +1,12 @@
+.accordion-group .accordion-heading a{
+
+	text-align: left;
+	font-weight: bold;
+	border-right:20px;
+}
+.accordion-inner{
+	margin:0.5%;
+}
+ul li span{
+	float: right;
+}
